@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:trident"
+    },
+    "title": {
+      "text": "别在水里睡着",
+      "color": "blue"
+    },
+    "description": {
+      "text": "两栖猎手在你快要溺水时，把你重新拉回了节奏。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trigger_manually": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

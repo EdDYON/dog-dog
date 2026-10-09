@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:cooked_beef"
+    },
+    "title": {
+      "text": "饱食守护",
+      "color": "gold"
+    },
+    "description": {
+      "text": "贪吃鬼吃饱后，把积攒的生命力也分给了主人。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trigger_manually": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

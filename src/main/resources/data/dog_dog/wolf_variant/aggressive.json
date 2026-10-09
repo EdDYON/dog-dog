@@ -1,0 +1,6 @@
+{
+  "angry_texture": "minecraft:entity/wolf/wolf_angry",
+  "biomes": "#dog_dog:personality_wolf_variants",
+  "tame_texture": "dog_dog:entity/wolf/aggressive_tame",
+  "wild_texture": "minecraft:entity/wolf/wolf"
+}

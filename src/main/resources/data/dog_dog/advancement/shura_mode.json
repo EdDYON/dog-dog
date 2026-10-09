@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_sword"
+    },
+    "title": {
+      "text": "修罗：无尽杀戮",
+      "color": "dark_red"
+    },
+    "description": {
+      "text": "狂暴者在绝境中化身修罗，开始不留余地的反击。"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trigger_manually": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

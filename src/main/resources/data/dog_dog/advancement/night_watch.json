@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:lantern"
+    },
+    "title": {
+      "text": "今夜有我守着",
+      "color": "yellow"
+    },
+    "description": {
+      "text": "警卫在夜里锁定了威胁，替你和家看住了黑暗。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trigger_manually": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

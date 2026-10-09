@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="dog_dog"
+version="2.0.1"
+displayName="Dog Dog"
+authors="EdDYON"
+logoFile="doglogo.png"
+description='''
+让每只驯服的狗都拥有独特性格、羁绊成长与专属故事。
+'''
+
+[[dependencies.dog_dog]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dog_dog]]
+modId="minecraft"
+type="required"
+versionRange="[1.21, 1.22)"
+ordering="NONE"
+side="BOTH"

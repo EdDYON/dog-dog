@@ -1,0 +1,96 @@
+{
+  "item.dog_dog.golden_bone": "黄金骨头",
+  "item.dog_dog.dog_handbook": "狗狗培养手册",
+  "creativetab.dog_dog.title": "狗狗模组",
+
+  "message.dog_dog.tame_notify": "[Dog Dog] 这只狗狗看起来是：",
+  "message.dog_dog.panel_title": "=== 狗狗档案 ===",
+  "message.dog_dog.panel_personality": "性格：",
+  "message.dog_dog.panel_trust": "亲密度：",
+  "message.dog_dog.panel_name": "名字：%s",
+  "message.dog_dog.panel_personality_value": "性格：%s",
+  "message.dog_dog.panel_trust_value": "亲密度：%s",
+  "message.dog_dog.panel_bond_value": "羁绊阶段：%s",
+  "message.dog_dog.panel_mood_value": "心情：%s",
+  "message.dog_dog.panel_strain_value": "透支：%s",
+  "message.dog_dog.panel_health_value": "生命：%s",
+  "message.dog_dog.panel_awakened_value": "觉醒：%s",
+  "message.dog_dog.panel_awakened_yes": "是",
+  "message.dog_dog.panel_awakened_no": "否",
+  "message.dog_dog.panel_mode_value": "模式：%s",
+  "message.dog_dog.panel_mode_home": "住家",
+  "message.dog_dog.panel_mode_follow": "跟随",
+  "message.dog_dog.panel_bond_stranger": "陌生",
+  "message.dog_dog.panel_bond_familiar": "熟悉",
+  "message.dog_dog.panel_bond_close": "亲近",
+  "message.dog_dog.panel_bond_sync": "默契",
+  "message.dog_dog.panel_bond_deep": "深羁",
+  "message.dog_dog.panel_bond_soul": "灵魂羁绊",
+  "message.dog_dog.reset_success": "狗狗的性格已重置。",
+  "message.dog_dog.no_personality": "这只狗狗还没有觉醒性格。",
+  "message.dog_dog.golden_bone.appearance_rerolled": "狗狗换上了一身新的毛色。",
+  "message.dog_dog.golden_bone.already_awakened": "这只狗狗已经觉醒过了。",
+  "message.dog_dog.golden_bone.need_max_affinity": "亲密度达到 100 后，黄金骨头才能唤醒它。",
+  "message.dog_dog.golden_bone.awakened": "黄金骨头唤醒了狗狗更深层的天性！",
+  "message.dog_dog.name_tag.renamed": "它现在叫 %s 了。",
+  "message.dog_dog.affinity_bond_food": "它吃得很开心，亲密度和心情都提升了。",
+
+  "personality.dog_dog.none": "普通狗",
+  "personality.description.dog_dog.none": "没有明显偏科，适合作为最早期的伙伴。",
+
+  "personality.dog_dog.glutton": "贪吃鬼",
+  "personality.description.dog_dog.glutton": "会主动吃附近食物，吃饱后更容易进入高状态。",
+
+  "personality.dog_dog.coward": "胆小鬼",
+  "personality.description.dog_dog.coward": "平时会躲怪，但在极端危急时会拼命救主。",
+
+  "personality.dog_dog.aggressive": "狂暴者",
+  "personality.description.dog_dog.aggressive": "攻击欲强，危急时可能爆发修罗般的救主姿态。",
+
+  "personality.dog_dog.clingy": "黏人精",
+  "personality.description.dog_dog.clingy": "喜欢贴着主人行动，越陪伴越稳定。",
+
+  "personality.dog_dog.digger": "寻宝专家",
+  "personality.description.dog_dog.digger": "擅长挖宝、探索与把收获带回给主人。",
+
+  "personality.dog_dog.healer": "治疗天使",
+  "personality.description.dog_dog.healer": "擅长续航与保命，能在关键时刻强行把主人拉回来。",
+
+  "personality.dog_dog.sentry": "警卫",
+  "personality.description.dog_dog.sentry": "会巡逻、标记威胁，并守住家与主人。",
+
+  "personality.dog_dog.amphibian": "两栖猎手",
+  "personality.description.dog_dog.amphibian": "擅长水战、救援和打捞水中的掉落物。",
+
+  "personality.dog_dog.vampire": "吸血伯爵",
+  "personality.description.dog_dog.vampire": "会积攒血能并把偷来的生命回馈给主人。",
+
+  "personality.dog_dog.tank": "重装坦克",
+  "personality.description.dog_dog.tank": "高生命值、高抗性，擅长替主人分摊伤害。",
+
+  "personality.dog_dog.assassin": "幽灵刺客",
+  "personality.description.dog_dog.assassin": "喜欢潜伏与爆发，适合暗处突袭与夜战。",
+
+  "personality.dog_dog.husky": "哈士奇",
+  "personality.description.dog_dog.husky": "精力旺盛、爱疯跑，也会把奇怪纪念品带回来。",
+
+  "personality.dog_dog.lazy": "懒狗",
+  "personality.description.dog_dog.lazy": "不爱动，但坐下休息时恢复能力非常强。",
+
+  "book.dog_dog.handbook.page1.title": "入门先别慌",
+  "book.dog_dog.handbook.page1.body": "先别急着研究数值。和狗相处久了你就会发现，亲密度像日子，心情像今天的脸色，透支像硬撑过头后的疲惫。\n\n把这三样看懂了，后面的培养就顺了。它不是一件会放技能的工具，更像一个会记住你怎么对它的伙伴。",
+  "book.dog_dog.handbook.page2.title": "怎么把它养开心",
+  "book.dog_dog.handbook.page2.body": "狗其实很好哄。饭要记得喂，路要记得一起走，停下来时顺手摸两下，状态就会一点点回暖。\n\n它喜欢待在你身边，也喜欢舒服的落脚处。要是总被你拖着挨打、跑得太远，或者刚缓过来又被逼着拼命，再乖的狗也会先蔫下来。",
+  "book.dog_dog.handbook.page3.title": "战斗派三兄弟",
+  "book.dog_dog.handbook.page3.body": "狂暴者越是跟你一起狠狠干仗，越容易认你这个主人；但打完也别忘了让它缓一缓。\n\n重装坦克适合顶在前面吃伤害，怕的不是正面硬碰硬，而是你只会往前压，不会把它带回来。幽灵刺客就该活在节奏里，夜色、偷袭、快进快出，都是它最顺手的时候。",
+  "book.dog_dog.handbook.page4.title": "温柔派与胆小派",
+  "book.dog_dog.handbook.page4.body": "治疗天使平时不一定最显眼，但它往往是最后那个能把你拉回来的。平时多陪着，少让它连着透支，关键时刻它真的很可靠。\n\n胆小鬼看着怂，真到了要命的时候反而最舍得扑出去，别因为它平时后退就嫌它没用。黏人精就更简单了，你带它多久，它就认你多深。",
+  "book.dog_dog.handbook.page5.title": "守夜人和湿地怪咖",
+  "book.dog_dog.handbook.page5.body": "警卫最适合有家的生活。有院子、有床边、有固定巡逻的路，它就会像真的在守夜。\n\n两栖猎手一到水边就特别自在，救援、打捞、湿地战斗全是它的主场。吸血伯爵则更适合夜里养，越是在昏暗和拉扯里，它的特点越明显。",
+  "book.dog_dog.handbook.page6.title": "野外派和拆家派",
+  "book.dog_dog.handbook.page6.body": "寻宝专家别老关在家里，草地、野外、远路，才是它真正高兴的地方。\n\n哈士奇也不是坏，它只是脑子里总有新点子。你给它一点能撒欢的空间，它就会把一些意料之外的小东西带回来。贪吃鬼最好懂，吃得开心，干活也积极，很多时候一口零食比一堆命令都好使。",
+  "book.dog_dog.handbook.page7.title": "慢热派与觉醒",
+  "book.dog_dog.handbook.page7.body": "懒狗不是废，它只是节奏慢，越是安稳的住家日子越能养出味道来。\n\n普通狗没那么多锋芒，但早期往往最稳，也最像真正一路陪你走过来的伙伴。等亲密度满了，再用黄金骨头去唤醒它，那更像是它把平时没表现出来的一面慢慢露给你看。",
+  "book.dog_dog.handbook.page8.title": "真正会养的人在看什么",
+  "book.dog_dog.handbook.page8.body": "真正会养狗的人，看的从来不只是血条。它危重了，你会不会第一时间救；它透支了，你舍不舍得让它歇；它状态不对，你能不能从平时的反应里看出来。\n\n空手去看档案当然方便，但更重要的还是相处久了之后，你一眼就知道它今天想不想闹、能不能打、是不是该回家了。"
+}

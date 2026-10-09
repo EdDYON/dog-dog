@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:redstone"
+    },
+    "title": {
+      "text": "月下饱餐",
+      "color": "dark_red"
+    },
+    "description": {
+      "text": "吸血伯爵在夜里积满血能，并把偷来的生命分给主人。"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trigger_manually": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

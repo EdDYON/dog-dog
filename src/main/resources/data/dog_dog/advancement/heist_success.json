@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "dog_dog:golden_bone"
+    },
+    "title": {
+      "text": "满载而归",
+      "color": "yellow"
+    },
+    "description": {
+      "text": "寻宝专家真的把像样的战利品从外面叼回来了。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trigger_manually": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

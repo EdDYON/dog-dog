@@ -1,0 +1,96 @@
+{
+  "item.dog_dog.golden_bone": "Golden Bone",
+  "item.dog_dog.dog_handbook": "Dog Handbook",
+  "creativetab.dog_dog.title": "Dog Dog Mod",
+
+  "message.dog_dog.tame_notify": "[Dog Dog] This dog seems to be:",
+  "message.dog_dog.panel_title": "=== Dog Profile ===",
+  "message.dog_dog.panel_personality": "Personality:",
+  "message.dog_dog.panel_trust": "Affinity:",
+  "message.dog_dog.panel_name": "Name: %s",
+  "message.dog_dog.panel_personality_value": "Personality: %s",
+  "message.dog_dog.panel_trust_value": "Affinity: %s",
+  "message.dog_dog.panel_bond_value": "Bond Stage: %s",
+  "message.dog_dog.panel_mood_value": "Mood: %s",
+  "message.dog_dog.panel_strain_value": "Strain: %s",
+  "message.dog_dog.panel_health_value": "Health: %s",
+  "message.dog_dog.panel_awakened_value": "Awakened: %s",
+  "message.dog_dog.panel_awakened_yes": "Yes",
+  "message.dog_dog.panel_awakened_no": "No",
+  "message.dog_dog.panel_mode_value": "Mode: %s",
+  "message.dog_dog.panel_mode_home": "Home",
+  "message.dog_dog.panel_mode_follow": "Follow",
+  "message.dog_dog.panel_bond_stranger": "Stranger",
+  "message.dog_dog.panel_bond_familiar": "Familiar",
+  "message.dog_dog.panel_bond_close": "Close",
+  "message.dog_dog.panel_bond_sync": "In Sync",
+  "message.dog_dog.panel_bond_deep": "Deep Bond",
+  "message.dog_dog.panel_bond_soul": "Soul Bond",
+  "message.dog_dog.reset_success": "The dog's personality has been reset.",
+  "message.dog_dog.no_personality": "This dog has not awakened a personality yet.",
+  "message.dog_dog.golden_bone.appearance_rerolled": "Your dog shows off a fresh new coat.",
+  "message.dog_dog.golden_bone.already_awakened": "This dog has already awakened.",
+  "message.dog_dog.golden_bone.need_max_affinity": "The Golden Bone only works once affinity reaches 100.",
+  "message.dog_dog.golden_bone.awakened": "The Golden Bone awakens your dog's deeper nature!",
+  "message.dog_dog.name_tag.renamed": "They are now called %s.",
+  "message.dog_dog.affinity_bond_food": "That special treat cheered them up and deepened your bond.",
+
+  "personality.dog_dog.none": "Plain Dog",
+  "personality.description.dog_dog.none": "A balanced companion without a sharp specialization.",
+
+  "personality.dog_dog.glutton": "Glutton",
+  "personality.description.dog_dog.glutton": "Actively seeks food and enters strong states more easily after eating.",
+
+  "personality.dog_dog.coward": "Coward",
+  "personality.description.dog_dog.coward": "Usually flees from danger, but may still save its owner in a crisis.",
+
+  "personality.dog_dog.aggressive": "Aggressive",
+  "personality.description.dog_dog.aggressive": "Highly offensive and capable of a desperate rescue burst.",
+
+  "personality.dog_dog.clingy": "Clingy",
+  "personality.description.dog_dog.clingy": "Prefers staying close and grows steadier through company.",
+
+  "personality.dog_dog.digger": "Digger",
+  "personality.description.dog_dog.digger": "Excels at treasure digging, exploring, and bringing loot home.",
+
+  "personality.dog_dog.healer": "Healer",
+  "personality.description.dog_dog.healer": "Focused on sustain, recovery, and life-saving interventions.",
+
+  "personality.dog_dog.sentry": "Sentry",
+  "personality.description.dog_dog.sentry": "Patrols, marks threats, and protects home territory.",
+
+  "personality.dog_dog.amphibian": "Amphibian",
+  "personality.description.dog_dog.amphibian": "Shines in water, rescues owners, and retrieves submerged loot.",
+
+  "personality.dog_dog.vampire": "Vampire",
+  "personality.description.dog_dog.vampire": "Stores blood power and feeds stolen life back to its owner.",
+
+  "personality.dog_dog.tank": "Tank",
+  "personality.description.dog_dog.tank": "High HP and durability, built to absorb damage for its owner.",
+
+  "personality.dog_dog.assassin": "Assassin",
+  "personality.description.dog_dog.assassin": "Best at stealth, burst damage, and ambushes from the dark.",
+
+  "personality.dog_dog.husky": "Husky",
+  "personality.description.dog_dog.husky": "Chaotic, energetic, and likely to bring back odd souvenirs.",
+
+  "personality.dog_dog.lazy": "Lazy",
+  "personality.description.dog_dog.lazy": "Slow to move, but excellent at resting and recovering.",
+
+  "book.dog_dog.handbook.page1.title": "Start Here, Breathe",
+  "book.dog_dog.handbook.page1.body": "Do not rush straight to the numbers. After living with a dog for a while, affinity starts to feel like shared history, mood feels like today's expression, and strain feels like the tiredness that shows up after too much pushing.\n\nOnce you read those three well, the rest of training starts to make sense. They are not little skill engines. They are companions that remember how you treat them.",
+  "book.dog_dog.handbook.page2.title": "How To Keep A Dog Happy",
+  "book.dog_dog.handbook.page2.body": "Dogs are actually easy to cheer up. Feed them, walk with them, and stop once in a while just to pet them. Their state warms back up a little at a time.\n\nThey like being near you, and they like having a comfortable place to settle down. If they keep getting dragged into pain, left too far behind, or pushed again right after recovering, even the sweetest dog starts to wilt.",
+  "book.dog_dog.handbook.page3.title": "The Battle Trio",
+  "book.dog_dog.handbook.page3.body": "Aggressive feels like a blade set on fire. The more real fights you survive together, the more willingly it trusts you with its back, but it still needs a chance to breathe after the dust settles.\n\nTank is closer to a shield with a pulse. It does not mind hard clashes. What breaks it is an owner who only knows how to press forward and never how to pull back. Assassin belongs to rhythm, darkness, and clean bursts, not long slogs.",
+  "book.dog_dog.handbook.page4.title": "Soft Hearts, Sharp Moments",
+  "book.dog_dog.handbook.page4.body": "Healer is not there to show off. It is the last hand reaching for you when everything else goes wrong. Keep it close, and do not keep burning it down to the wire.\n\nCoward may look timid, but when you are truly about to go down, it is often the one most willing to throw itself forward. Clingy is simpler than that. The longer it stays with you, the deeper it starts to belong at your side.",
+  "book.dog_dog.handbook.page5.title": "Guards And Wetland Weirdos",
+  "book.dog_dog.handbook.page5.body": "Sentry makes the most sense in a real home. Give it a yard, a bedside corner, and a path it can learn, and it starts to feel like a dog that is honestly on watch.\n\nAmphibian comes alive around water. Rescue work, retrieval, and wet fights all feel natural to it. Vampire is best raised in the dark. The longer the night drags on, the more its edge starts to show.",
+  "book.dog_dog.handbook.page6.title": "Wild Ones And Troublemakers",
+  "book.dog_dog.handbook.page6.body": "Digger should not spend its whole life indoors. Grass, long roads, and places neither of you know yet are where it starts to look truly happy.\n\nHusky is not broken. It just has too many thoughts and not enough brakes. Give it room to run and it will often come back with something ridiculous and weirdly charming. Glutton is easier to read than either of them. A good snack solves more than a lecture ever will.",
+  "book.dog_dog.handbook.page7.title": "Slow Burn And Awakening",
+  "book.dog_dog.handbook.page7.body": "Lazy is not dead weight, only slow to bloom. In a quiet home life it starts to feel warm, dependable, and oddly comforting.\n\nPlain Dog may never be the flashiest, but early on it is often the one that feels the steadiest. When affinity finally reaches its peak, the Golden Bone does not replace the dog you knew. It feels more like the hidden side of that same dog stepping into the light.",
+  "book.dog_dog.handbook.page8.title": "What Good Caretakers Notice",
+  "book.dog_dog.handbook.page8.body": "People who truly know how to raise a dog watch more than a health bar. They notice when a dog needs saving right now, when it is too strained for one more miracle, and when its whole mood feels off before the numbers ever say it.\n\nEmpty-hand interaction can show you the profile, but the real goal is simpler than that. Spend enough time together, and eventually you can tell at a glance whether it wants to play, fight, or just go home."
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_bone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bone"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_bone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dog_dog:dog_handbook"
+    ]
+  }
+}
